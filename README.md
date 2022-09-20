@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I'm  working on my portfolio Webpage<br><br>🤝 I'm looking for help in: go lang<br><br>🌱I'm currently learning: go lang<br><br>⚡Fun fact : The first computer bug was an actual bug. A moth, to be precise.<br>Yes, the first computer bug was discovered in 1947, and was a literal bug; or moth<br>stuck inside Grace Hopper’s Harvard Mark II computer. (The irony that Grace Hopper<br>sounds an awful lot like grasshopper isn’t lost on me here, either).
+🔭 I'm  working on a mobile banking app<br><br>🤝 I'm looking for help in: go lang<br><br>🌱I'm currently learning: go lang<br><br>⚡Fun fact : The first computer bug was an actual bug. A moth, to be precise.<br>Yes, the first computer bug was discovered in 1947, and was a literal bug; or moth<br>stuck inside Grace Hopper’s Harvard Mark II computer. (The irony that Grace Hopper<br>sounds an awful lot like grasshopper isn’t lost on me here, either).
 
 
 ## 🌐 Socials:
