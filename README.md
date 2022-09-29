@@ -26,8 +26,8 @@
 
 ## 🌐 Socials:
 <p align="left">
-<a href="https://codepen.io/johnkk1316" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="johnkk1316" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/john-kinyanjui-82374120a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="john kinyanjui" height="30" width="40" /></a>
+<a href="https://codepen.io/johnkk1316" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="johnkk1316" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/17849473/vykin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="vykin's user avatar vykin" height="30" width="40" /></a>
 <a href="https://instagram.com/code_ona" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="code_ona" height="30" width="40" /></a>
 <a href="https://dribbble.com/johnkk1316" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="john kinyanjui" height="30" width="40" /></a>
