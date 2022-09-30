@@ -35,7 +35,7 @@
 <a href="https://www.leetcode.com/johnkk1316" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="johnkk1316" height="30" width="40" /></a>
 </p>
 
-## 🏆 GitHub Trophies
+## 🏆 GitHub Trophies.
 ![](https://github-profile-trophy.vercel.app/?username=johnkk1316&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 # 💻 Tech Stack:
@@ -45,7 +45,7 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=johnkk1316&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=johnkk1316&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-### ✍️ Random Dev Quote
+### ✍️ Random Dev Quote.
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
 
 [![](https://visitcount.itsvg.in/api?id=johnkk1316&icon=2&color=0)](https://visitcount.itsvg.in)
