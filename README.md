@@ -16,9 +16,9 @@
 
 - 🤝 I’m looking for help with **smart contracts**
 
-- 👨‍💻 All of my projects are available at [https://main-portfolio.pages.dev/](https://main-portfolio.pages.dev/)
+- 👨‍💻 All of my projects are available at [https://johnsportfoliosite.netlify.app/](https://johnsportfoliosite.netlify.app/)
 
-- 💬 Ask me about **React**
+- 💬 Ask me about **C**
 
 - 📫 How to reach me **codeona4@gmail.com**
 
