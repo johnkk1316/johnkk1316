@@ -45,8 +45,12 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=johnkk1316&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=johnkk1316&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+
+
 ### ✍️ Random Dev Quote.
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
+
+<img alt="Coding" width="400" src="https://64.media.tumblr.com/7abb7dafe4a9b342d41eb17f843af841/ff5aa17bf178f5d9-fb/s1280x1920/b51ff9f636c0d83332de7c629d0731b81ad7cf5a.gif">
 
 [![](https://visitcount.itsvg.in/api?id=johnkk1316&icon=2&color=0)](https://visitcount.itsvg.in)
 
