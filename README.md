@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on **Crypto Decentralized App**
 
-- 🌱 I’m currently learning **Golang**
+- 🌱 I’m currently learning **C**
 
 - 👯 I’m looking to collaborate on **Web3**
 
